@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d790bc9701561a568461ae48",
+  "owner": "udpnwkmrjse",
+  "repo": "page-eb2ed26d082c9b3bf3ff3db4",
+  "title": "RadioVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eb2ed26d082c9b3bf3ff3db4",
+      "a": "RadioVPN",
+      "b": "稳定全球clash加速器",
+      "entity": "RadioVPN",
+      "brand": "RadioVPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aed8222bd54eb596cce3e885716abd01e5fa2117142f8099ee178e26bdf9ca2e",
+      "content": {
+        "primary_entity": "RadioVPN",
+        "keyword1": "RadioVPN",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，分别覆盖 3 台、5 台和 20 台设备同时在线，月流量从 100GB 到 1000GB。旗舰版包含 IPLC 专线游戏加速优化，团队版支持企业定制路由和专属客户经理。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选套餐",
+          "AI_HERO_INTRO": "RadioVPN 为不同设备数量的用户提供分层订阅方案，从个人基础版到团队版均可按年付获得更优价格。选定套餐后，依据所用客户端文档导入订阅即可开始使用。",
+          "AI_VISUAL_TITLE": "RadioVPN 套餐选哪档",
+          "AI_HIGHLIGHT_1": "三档套餐按月按年灵活付",
+          "AI_HIGHLIGHT_2": "设备数从 3 台覆盖到 20 台",
+          "AI_HIGHLIGHT_3": "旗舰版含专线游戏加速",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和线路类型三个维度挑选合适套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，按常用设备数量对应选择。",
+          "AI_FEATURE_TITLE_2": "按流量周期规划",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻量使用，300GB 满足日常追剧与办公，1000GB 面向多设备共享。",
+          "AI_FEATURE_TITLE_3": "线路类型区分",
+          "AI_FEATURE_TEXT_3": "旗舰版加入 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android 和 iOS 各有适用的客户端，导入订阅前先确认设备系统版本和客户端安装来源。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐均支持月付和年付：基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选定服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版或团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统和客户端版本要求，选择对应平台的客户端下载安装。",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接或配置文件，依照对应文档完成节点选择和连接测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "从合适的套餐开始",
+          "AI_CLOSING_TEXT": "对比三档套餐的流量与设备数，选定后按客户端文档完成订阅导入。",
+          "AI_FAQ_ANSWER_1": "根据同时在线设备数和月流量选择：3 台设备、100GB 以内选基础版；5 台设备、需要流媒体与游戏加速选旗舰版；20 台设备或企业使用选团队版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线。设备数量按同时连接的终端计算，超出后可升级套餐。",
+          "AI_FAQ_ANSWER_3": "在客户端内使用订阅地址导入配置，客户端会拉取节点列表。具体导入方式可参照所使用客户端对应的配置文档。",
+          "AI_FAQ_ANSWER_4": "月付与年付两种周期。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，年付相比月付按 10 个月计费。",
+          "AI_FAQ_ANSWER_5": "基础版为普通线路节点池，旗舰版提供 IPLC 专线并优化游戏加速，团队版使用 VIP 专属高带宽节点，可根据使用场景选择。",
+          "AI_FAQ_QUESTION_1": "如何根据需求选择套餐？",
+          "AI_FAQ_QUESTION_2": "套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路有何差异？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "elongwin.cn",
+    "host": "elongwin.cn"
+  },
+  "file_hashes": {
+    "index.html": "687613e13e4c9b965ac3aa82c78665442a43fcf11c8c776dc2fd7839d9beb29f",
+    "sitemap.xml": "30103b2c21c8fabe18693994005d8f36c9c7162ea933bc5f315357ec764e8a35",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0625c6499015ffc57fb749871c8cdd98d95e3d34ee0dd1b53acf7155186b1a7a",
+    "robots.txt": "2658e390f415c0c90694fdc18cace96c1b070eec4dbecd27d912107d6600a6fb",
+    "cb0098ef836c93945cea5d0f27f5bd98.txt": "dd6816d88d12b4b28eadad40fbdc33eca5850ebafa890fb99b101a3b4e5831e9"
+  },
+  "revision": "63f57f3f18431c8bdb9738b0a473fa5d9b75a06a45d6873198cc67d9c8c03fa0"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elongwin.cn/sitemap.xml
